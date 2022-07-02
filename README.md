@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darkdestiny0
 - 👀 I’m interested in Programing 
-- 🌱 I’m currently learning React-Native
-- 💞️ I’m looking to collaborate on React-native  
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on React
 - 📫 How to reach me ping me on mysterarjun@Gmail.com
 
 <!---
